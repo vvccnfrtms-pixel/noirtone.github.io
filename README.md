@@ -4,7 +4,7 @@ Boutique electric guitars crafted for premium feel and tone.
 
 This repository contains the website for **NoirTone Guitars**, a business that upgrades affordable donor guitars into high-end boutique instruments.  
 
-**Live website:** [https://vvccnfrtms-pixel.github.io](https://vvccnfrtms-pixel.github.io)
+**Live website:**
 
 ## Website Structure
 
