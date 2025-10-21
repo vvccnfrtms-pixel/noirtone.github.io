@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About NoirTone Guitars | Boutique Electric Guitar Craftsmanship</title>
+<link rel="stylesheet" href="style.css">
+<meta name="description" content="NoirTone Guitars transforms select donor guitars into boutique masterpieces with premium finishes and superior tone. Learn about our craftsmanship and vision.">
+</head>
+<body>
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="gallery.html">Gallery</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+
+<section class="container">
+  <h1>About NoirTone Guitars</h1>
+  <p>NoirTone Guitars started with a simple idea: transform select donor guitars into boutique masterpieces. Every instrument is carefully upgraded with premium hardware, flawless finishes, and expert setups. Our mission is to give musicians a high-end playing experience without the luxury price tag.</p>
+
+  <h2>Our Craftsmanship</h2>
+  <p>Each guitar undergoes meticulous attention to detail. From the fretwork to the pickups, every component is chosen to enhance tone and playability. Our boutique builds are crafted for musicians who demand excellence.</p>
+
+  <h2>Our Mission</h2>
+  <p>We specialize in transforming select donor guitars into collectible boutique instruments. Each build is crafted for discerning musicians who seek <strong>sound, style, and exclusivity</strong> — all without paying exorbitant luxury prices.</p>
+
+  <h2>Our Vision</h2>
+  <p>NoirTone Guitars aims to become a globally recognized boutique brand. We focus on quality, uniqueness, and building an emotional connection with every player.</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 NoirTone Guitars. All rights reserved.</p>
+  <p><a href="contact.html">Contact Us</a></p>
+</footer>
+</body>
+</html>

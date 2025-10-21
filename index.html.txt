@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NoirTone Guitars | Luxury Electric Guitars. Reimagined.</title>
+<link rel="stylesheet" href="style.css">
+<meta name="description" content="NoirTone Guitars crafts limited boutique electric guitars with premium finishes and superior tone. Reserve your custom build today.">
+<meta name="keywords" content="boutique electric guitars, custom electric guitars, luxury electric guitars, high-end guitars, handcrafted guitars">
+<meta name="robots" content="index, follow">
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1>Luxury Electric Guitars. Reimagined.</h1>
+    <p>We craft limited boutique guitars with premium finishes, unmatched tone, and precise craftsmanship — for musicians who demand more.</p>
+    <a href="contact.html" class="cta">Own Your Custom Masterpiece</a>
+  </div>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="gallery.html">Gallery</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+
+<section id="usp">
+  <div class="container">
+    <h2>Why NoirTone?</h2>
+    <ul>
+      <li>Premium tone and craftsmanship — your guitar will sound as good as it looks</li>
+      <li>Limited boutique builds each month — exclusivity guaranteed</li>
+      <li>Unique aesthetics tailored for collectors and performers</li>
+      <li>Trusted by musicians locally and internationally</li>
+    </ul>
+    <a href="contact.html" class="cta">Reserve Yours Today</a>
+  </div>
+</section>
+
+<section id="hero-images">
+  <div class="hero-slide" style="background-image: url('images/guitar1.jpg');"></div>
+  <div class="hero-slide" style="background-image: url('images/guitar2.jpg');"></div>
+</section>
+
+<footer>
+  <p>&copy; 2025 NoirTone Guitars. All rights reserved.</p>
+  <p><a href="contact.html">Contact Us</a></p>
+</footer>
+</body>
+</html>

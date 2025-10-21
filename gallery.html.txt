@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gallery | Limited Edition Boutique Electric Guitars</title>
+<link rel="stylesheet" href="style.css">
+<meta name="description" content="Explore NoirTone Guitars' boutique builds. Limited edition custom electric guitars crafted for superior tone and aesthetics.">
+</head>
+<body>
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="gallery.html">Gallery</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+
+<section class="container">
+  <h1>Gallery</h1>
+  <p>Explore our collection of boutique guitars. Each instrument is one-of-a-kind, upgraded with premium finishes and hardware.</p>
+
+  <div class="gallery-grid">
+    <div class="gallery-item">
+      <img src="images/guitar1.jpg" alt="Black Strat Boutique Guitar with premium pickups and custom finish">
+      <p>Black Strat Boutique — Limited Edition, premium tone, flawless craftsmanship</p>
+      <a href="contact.html" class="cta">Reserve This Build</a>
+    </div>
+    <div class="gallery-item">
+      <img src="images/guitar2.jpg" alt="2018 Pro Jazzmaster Mystic Seafoam Green with boutique setup">
+      <p>2018 Pro Jazzmaster — Unique color, hand-finished, boutique tone</p>
+      <a href="contact.html" class="cta">Reserve This Build</a>
+    </div>
+    <div class="gallery-item">
+      <img src="images/guitar3.jpg" alt="Black Ibanez FR Iron Label custom boutique guitar">
+      <p>Black Ibanez FR Iron Label — Precision craftsmanship, premium playability</p>
+      <a href="contact.html" class="cta">Reserve This Build</a>
+    </div>
+    <div class="gallery-item">
+      <img src="images/guitar4.jpg" alt="Red Fender Modern Player Jag with boutique upgrades">
+      <p>Red Fender Modern Player Jag — One-of-a-kind aesthetic, boutique upgrades</p>
+      <a href="contact.html" class="cta">Reserve This Build</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2025 NoirTone Guitars. All rights reserved.</p>
+  <p><a href="contact.html">Contact Us</a></p>
+</footer>
+</body>
+</html>
